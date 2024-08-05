@@ -1,0 +1,6 @@
+wasm
+*.o
+*.a
+
+node_modules
+.wrangler
